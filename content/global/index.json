@@ -8,6 +8,10 @@
     "color": "default",
     "nav": [
       {
+        "href": "test",
+        "label": "Test"
+      },
+      {
         "href": "",
         "label": "Home"
       },
