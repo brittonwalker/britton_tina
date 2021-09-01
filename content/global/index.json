@@ -34,9 +34,9 @@
     }
   },
   "theme": {
-    "color": "blue",
+    "color": "yellow",
     "font": "sans",
-    "icon": "boxicon",
+    "icon": "heroicon",
     "darkMode": "system"
   }
 }
